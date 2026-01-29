@@ -1,6 +1,6 @@
 # Hi, I'm Justin
 
-I'm an AI/ML engineer focused on deep learning, LLM agents, and computer vision. I've won multiple hackathons and received research grants for work in neural networks and taxonomic classification.
+I'm an AI-focused product manager and engineer focused on deep learning, LLM agents, and computer vision. I've won multiple hackathons and received research grants for work in neural networks and taxonomic classification.
 
 [jknoll.github.io](https://jknoll.github.io) | [LinkedIn](https://linkedin.com/in/justinknoll)
 
