@@ -2,7 +2,7 @@
 
 I'm AI-native product manager and engineer focused on deep learning, LLM agents, and computer vision. I've won multiple hackathons and received research grants for work in training deep neural networks for chess and taxonomic classification.
 
-More AI project background [jknoll.github.io](https://jknoll.github.io) | 
+AI project details [jknoll.github.io](https://jknoll.github.io) | General Profile
 [LinkedIn](https://linkedin.com/in/justinknoll)
 
 ---
